@@ -1,0 +1,15 @@
+div{ 
+	border-style: solid;
+	border-color: violet;
+	background-color: #F5B692  ;
+	border-width: 6px;
+}
+h1 { 
+	border-style: dotted;
+	border-color: green;
+	background-color: white;
+	padding: 10px;
+	margin: 18px 10px 35px 25px;
+	text-align: center;
+
+}
